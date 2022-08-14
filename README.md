@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarje Page
 - 👀 I’m interested in all things data
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning about Data Analytics
 
 <!---
 
